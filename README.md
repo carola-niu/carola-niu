@@ -6,4 +6,4 @@
 - :sleepy: Study to survive. Girl run away fast as you can.
 
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karo_feder)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karo_feder)](https://github.com/anuraghazra/github-readme-stats)
